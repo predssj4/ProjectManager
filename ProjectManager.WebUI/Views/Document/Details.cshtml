@@ -1,0 +1,21 @@
+﻿@model ProjectManager.Entities.Document
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Document details</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Information</h4>
+        <p>@Html.DisplayNameFor(model => model.Name): @Html.DisplayTextFor(model => model.Name)</p>
+        <p><a href="/@Html.DisplayTextFor(model => model.Path)">View file</a></p>
+        <p>@Html.DisplayNameFor(model => model.Description): @Html.DisplayTextFor(model => model.Description)</p>
+    </div>
+</div>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserSet" EntityType="Model1.User" />
+    <EntitySet Name="TaskSet" EntityType="Model1.Task" />
+    <AssociationSet Name="UserTask" Association="Model1.UserTask">
+      <End Role="User" EntitySet="UserSet" />
+      <End Role="Task" EntitySet="TaskSet" />
+    </AssociationSet>
+    <EntitySet Name="TaskPrioritySet" EntityType="Model1.TaskPriority" />
+    <AssociationSet Name="PriorityTask" Association="Model1.PriorityTask">
+      <End Role="Priority" EntitySet="TaskPrioritySet" />
+      <End Role="Task" EntitySet="TaskSet" />
+    </AssociationSet>
+    <EntitySet Name="TaskStatusSet" EntityType="Model1.TaskStatus" />
+    <AssociationSet Name="StatusTask" Association="Model1.StatusTask">
+      <End Role="Status" EntitySet="TaskStatusSet" />
+      <End Role="Task" EntitySet="TaskSet" />
+    </AssociationSet>
+    <EntitySet Name="BugTypeSet" EntityType="Model1.BugType" />
+    <EntitySet Name="BugSet" EntityType="Model1.Bug" />
+    <EntitySet Name="BugStatusSet" EntityType="Model1.BugStatus" />
+    <AssociationSet Name="BugStatusBug" Association="Model1.BugStatusBug">
+      <End Role="BugStatus" EntitySet="BugStatusSet" />
+      <End Role="Bug" EntitySet="BugSet" />
+    </AssociationSet>
+    <AssociationSet Name="BugTypeBug" Association="Model1.BugTypeBug">
+      <End Role="BugType" EntitySet="BugTypeSet" />
+      <End Role="Bug" EntitySet="BugSet" />
+    </AssociationSet>
+    <AssociationSet Name="UserBug" Association="Model1.UserBug">
+      <End Role="User" EntitySet="UserSet" />
+      <End Role="Bug" EntitySet="BugSet" />
+    </AssociationSet>
+    <EntitySet Name="BugAttachmentSet" EntityType="Model1.BugAttachment" />
+    <AssociationSet Name="BugBugAttachment" Association="Model1.BugBugAttachment">
+      <End Role="Bug" EntitySet="BugSet" />
+      <End Role="BugAttachment" EntitySet="BugAttachmentSet" />
+    </AssociationSet>
+    <EntitySet Name="DocumentSet" EntityType="Model1.Document" />
+    <EntitySet Name="MessageSet" EntityType="Model1.Message" />
+    <AssociationSet Name="MessageUser" Association="Model1.MessageUser">
+      <End Role="Message" EntitySet="MessageSet" />
+      <End Role="User" EntitySet="UserSet" />
+    </AssociationSet>
+    <AssociationSet Name="MessageUser1" Association="Model1.MessageUser1">
+      <End Role="Message" EntitySet="MessageSet" />
+      <End Role="User" EntitySet="UserSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" Nullable="false" cg:SetterAccess="Public" />
+    <Property Name="Password" Type="String" Nullable="false" />
+    <Property Name="Level" Type="Int16" Nullable="false" DefaultValue="0" />
+    <Property Name="Name" Type="String" Nullable="true" />
+    <Property Name="Surname" Type="String" Nullable="true" />
+    <NavigationProperty Name="Tasks" Relationship="Model1.UserTask" FromRole="User" ToRole="Task" />
+    <NavigationProperty Name="Bugs" Relationship="Model1.UserBug" FromRole="User" ToRole="Bug" />
+    <NavigationProperty Name="SentMessages" Relationship="Model1.MessageUser" FromRole="User" ToRole="Message" />
+    <NavigationProperty Name="ReceivedMessages" Relationship="Model1.MessageUser1" FromRole="User" ToRole="Message" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="true" />
+    <Property Name="Deadline" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Model1.UserTask" FromRole="Task" ToRole="User" />
+    <NavigationProperty Name="Priority" Relationship="Model1.PriorityTask" FromRole="Task" ToRole="Priority" />
+    <NavigationProperty Name="Status" Relationship="Model1.StatusTask" FromRole="Task" ToRole="Status" />
+  </EntityType>
+  <Association Name="UserTask">
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <End Type="Model1.Task" Role="Task" Multiplicity="*" />
+  </Association>
+  <EntityType Name="TaskPriority">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <NavigationProperty Name="Tasks" Relationship="Model1.PriorityTask" FromRole="Priority" ToRole="Task" />
+  </EntityType>
+  <Association Name="PriorityTask">
+    <End Type="Model1.TaskPriority" Role="Priority" Multiplicity="1" />
+    <End Type="Model1.Task" Role="Task" Multiplicity="*" />
+  </Association>
+  <EntityType Name="TaskStatus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <NavigationProperty Name="Tasks" Relationship="Model1.StatusTask" FromRole="Status" ToRole="Task" />
+  </EntityType>
+  <Association Name="StatusTask">
+    <End Type="Model1.TaskStatus" Role="Status" Multiplicity="1" />
+    <End Type="Model1.Task" Role="Task" Multiplicity="*" />
+  </Association>
+  <EntityType Name="BugType">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <NavigationProperty Name="Bug" Relationship="Model1.BugTypeBug" FromRole="BugType" ToRole="Bug" />
+  </EntityType>
+  <EntityType Name="Bug">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <NavigationProperty Name="Status" Relationship="Model1.BugStatusBug" FromRole="Bug" ToRole="BugStatus" />
+    <NavigationProperty Name="Type" Relationship="Model1.BugTypeBug" FromRole="Bug" ToRole="BugType" />
+    <NavigationProperty Name="User" Relationship="Model1.UserBug" FromRole="Bug" ToRole="User" />
+    <NavigationProperty Name="Attachments" Relationship="Model1.BugBugAttachment" FromRole="Bug" ToRole="BugAttachment" />
+  </EntityType>
+  <EntityType Name="BugStatus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Bugs" Relationship="Model1.BugStatusBug" FromRole="BugStatus" ToRole="Bug" />
+    <Property Name="Name" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="BugStatusBug">
+    <End Type="Model1.BugStatus" Role="BugStatus" Multiplicity="1" />
+    <End Type="Model1.Bug" Role="Bug" Multiplicity="*" />
+  </Association>
+  <Association Name="BugTypeBug">
+    <End Type="Model1.BugType" Role="BugType" Multiplicity="1" />
+    <End Type="Model1.Bug" Role="Bug" Multiplicity="*" />
+  </Association>
+  <Association Name="UserBug">
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+    <End Type="Model1.Bug" Role="Bug" Multiplicity="*" />
+  </Association>
+  <EntityType Name="BugAttachment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Path" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="true" />
+    <NavigationProperty Name="Bug" Relationship="Model1.BugBugAttachment" FromRole="BugAttachment" ToRole="Bug" />
+  </EntityType>
+  <Association Name="BugBugAttachment">
+    <End Type="Model1.Bug" Role="Bug" Multiplicity="1" />
+    <End Type="Model1.BugAttachment" Role="BugAttachment" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Document">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="Path" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" />
+    <Property Name="Content" Type="String" Nullable="false" />
+    <NavigationProperty Name="Sender" Relationship="Model1.MessageUser" FromRole="Message" ToRole="User" />
+    <NavigationProperty Name="Receiver" Relationship="Model1.MessageUser1" FromRole="Message" ToRole="User" />
+    <Property Name="SentDate" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <Association Name="MessageUser">
+    <End Type="Model1.Message" Role="Message" Multiplicity="*" />
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+  </Association>
+  <Association Name="MessageUser1">
+    <End Type="Model1.Message" Role="Message" Multiplicity="*" />
+    <End Type="Model1.User" Role="User" Multiplicity="1" />
+  </Association>
+</Schema>

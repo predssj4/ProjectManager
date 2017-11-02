@@ -1,0 +1,132 @@
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll.config
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.pdb
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Helpers.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Mvc.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Razor.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\ProjectManager.Domain.pdb
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Razor.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Helpers.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\System.Web.Mvc.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csprojResolveAssemblyReference.cache
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.pdb
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\EntityFramework.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\EntityFramework.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.WebUI\bin\Microsoft.Web.Helpers.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll.config
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.pdb
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Helpers.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.pdb
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.pdb
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll.config
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.pdb
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Helpers.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.pdb
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csprojResolveAssemblyReference.cache
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.pdb
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll.config
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.pdb
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Helpers.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.pdb
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csprojResolveAssemblyReference.cache
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.pdb
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll.config
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.WebUI.pdb
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Helpers.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.pdb
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\ProjectManager.Domain.dll.config
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\EntityFramework.SqlServer.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Helpers.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Razor.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\bin\System.Web.Mvc.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csprojResolveAssemblyReference.cache
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.csproj.CoreCompileInputs.cache
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.WebUI\obj\Debug\ProjectManager.WebUI.pdb

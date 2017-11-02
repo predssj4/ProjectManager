@@ -1,0 +1,32 @@
+﻿@model ProjectManager.Entities.Task
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Task details</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Information</h4>
+        <p>@Html.DisplayNameFor(model => model.Name): @Html.DisplayTextFor(model => model.Name)</p>
+        <p>Priority: @Html.DisplayTextFor(model => model.Priority.Name)</p>
+        <p>Status: @Html.DisplayTextFor(model => model.Status.Name)</p>
+        <p>Deadline: @Html.DisplayTextFor(model => model.Deadline)</p>
+        @if (Model.User == null)
+        {
+            <p>Bug is not assigned to any contributor</p>
+        }
+        else
+        {
+            <p>Assigned to: <a href="@Url.Action("Details", "User", new { id = Model.User.ID })">@Model.User.Email</a></p>
+        }
+        <p>@Html.DisplayNameFor(model => model.Description): @Html.DisplayTextFor(model => model.Description)</p>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>

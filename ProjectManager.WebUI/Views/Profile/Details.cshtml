@@ -1,0 +1,26 @@
+﻿@model ProjectManager.Entities.User
+
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Profile</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Information</h4>
+        <p>@Html.DisplayNameFor(model => model.Email): @Html.DisplayTextFor(model => model.Email)</p>
+        <p>@Html.DisplayNameFor(model => model.Name): @Html.DisplayTextFor(model => model.Name)</p>
+        <p>@Html.DisplayNameFor(model => model.Surname): @Html.DisplayTextFor(model => model.Surname)</p>
+        <p>@Html.DisplayNameFor(model => model.Roles): @Html.DisplayTextFor(model => model.Roles)</p>
+        <br />
+        <h4>Statistics</h4>
+        <p>Tasks in progress: @Model.Tasks.Count().ToString()</p>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>

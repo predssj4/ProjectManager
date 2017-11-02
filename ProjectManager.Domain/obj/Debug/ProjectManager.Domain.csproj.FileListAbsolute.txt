@@ -1,0 +1,110 @@
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll.config
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\ProjectManager.Domain.pdb
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Helpers.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Mvc.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Razor.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Razor.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Helpers.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\System.Web.Mvc.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.pdb
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\EntityFramework.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.dll
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\EntityFramework.xml
+D:\Informatyka\Visual Projekty\DotNet\Project Manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll.config
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.pdb
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.xml
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.csprojResolveAssemblyReference.cache
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.dll
+C:\Users\pred\Documents\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.pdb
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll.config
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.pdb
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.xml
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.csprojResolveAssemblyReference.cache
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.dll
+D:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.pdb
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll.config
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.pdb
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.xml
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.csprojResolveAssemblyReference.cache
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.dll
+A:\Programowanie\Visual Studio WWW\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.pdb
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll.config
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\ProjectManager.Domain.pdb
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\EntityFramework.SqlServer.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Razor.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Deployment.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Webpages.Razor.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Helpers.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\bin\System.Web.Mvc.xml
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.csprojResolveAssemblyReference.cache
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.csproj.CoreCompileInputs.cache
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.dll
+F:\Uczelnia pliki\od preda\V\Systemy baz danych\Bazy danych - Copy\pb_project_manager\ProjectManager.Domain\obj\Debug\ProjectManager.Domain.pdb
